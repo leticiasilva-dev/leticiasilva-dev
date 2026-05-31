@@ -1,16 +1,54 @@
-## Hi there 👋
+# Olá! 👋 Eu sou a Letícia Silva
 
-<!--
-**leticiasilva-dev/leticiasilva-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação
 
-Here are some ideas to get you started:
+💼 Assistente de RH
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐍 Atualmente estudando Python e desenvolvimento de software
+
+🚀 Construindo meu portfólio e aprimorando minhas habilidades em programação
+
+---
+
+## 🛠️ Tecnologias que estou estudando
+
+- Python
+- Git e GitHub
+- JSON
+- Lógica de Programação
+
+---
+
+## 📂 Projetos
+
+### 👨‍💼 Sistema de Cadastro de Funcionários
+
+Projeto desenvolvido em Python com:
+
+- Cadastro de funcionários
+- Busca por nome
+- Exclusão por ID
+- IDs automáticos
+- Persistência de dados em JSON
+
+🔗 Repositório:
+https://github.com/leticiasilva-dev/sistema-cadastro-funcionarios
+
+---
+
+## 📚 Atualmente aprendendo
+
+- Estruturas de Dados
+- Programação Orientada a Objetos (POO)
+- Banco de Dados
+- Desenvolvimento de Software
+
+---
+
+## 📫 Contato
+
+🔗 LinkedIn:
+www.linkedin.com/in/leticiasilva-dev
+
+🔗 GitHub:
+https://github.com/leticiasilva-dev
